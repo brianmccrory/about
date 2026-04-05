@@ -57,3 +57,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     name = "Jazz of Japan"
     url = "https://www.jazzofjapan.com/"
     weight = 5
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
