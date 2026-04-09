@@ -24,7 +24,7 @@ In addition to the emails that regular subscribers receive through the newslette
 
 Having said that, I’m not interested in using paywalls in the articles. I hope that choosing to upgrade to a premium subscription is a good way to show your personal support for this site and to me. It really means a lot to me and I never take it, or your attention as a reader, for granted.
 
-Subscriptions to Jazz of Japan are USD $5/month (or $50/year) and can be canceled at any time. Payments are handled securely through the Stripe platform, just like on Substack. If there's ever a problem with your subscription, just contact me and I will try to make things right.
+Subscriptions to Jazz of Japan can be canceled at any time. Payments are handled securely through the Stripe platform, just like they were when I was on Substack. If there's ever a problem with your subscription, just contact me and I will try to make things right.
 
 * With special thanks to...
 
