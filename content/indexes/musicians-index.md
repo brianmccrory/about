@@ -1,7 +1,7 @@
 ---
 title: "Musicians Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-05T07:06:07-07:00
+lastmod: 2026-04-12T11:16:48-07:00
 draft: false
 ---
 
@@ -198,7 +198,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Inoue, Koichi (井上功一, drums): [_Music Make Us One_](https://www.jazzofjapan.com/archive/yuichiro-aratake-music-make-us-one/) (2010)
 -   Inoue, May (井上銘, guitar, [_web_](https://mayinoue.com/)): [_Virtual Silence_](https://www.jazzofjapan.com/archive/chie-nishimura-virtual-silence/) (2021)
 -   Inoue, Shinpei (井上信平, flute, [_web_](https://www.facebook.com/shinpeiworld/)): [_No One Else_](https://www.jazzofjapan.com/archive/naoko-akimoto-no-one-else/) (2012)
--   Inoue, Toshihiko (井上淑彦, saxophone, [_web_](http://www.inouetoshihiko.com/)): [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)  · [_Sora_](https://www.jazzofjapan.com/archive/eriko-shimizu-sora/) (2010)  · [_Un Jour_](https://www.jazzofjapan.com/archive/clepsydra-un-jour/) (2011)  · [_Zephyr_](https://www.jazzofjapan.com/archive/zephyr-zephyr/) (2013)  · [_Vayu_](https://www.jazzofjapan.com/archive/toshihiko-inoue-vayu/) (2016)
+-   Inoue, Toshihiko (井上淑彦, saxophone, [_web_](http://www.inouetoshihiko.com/)): [_Fuse_](https://www.jazzofjapan.com/archive/toshihiko-inoue-fuse/) (1999)  · [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)  · [_Sora_](https://www.jazzofjapan.com/archive/eriko-shimizu-sora/) (2010)  · [_Un Jour_](https://www.jazzofjapan.com/archive/clepsydra-un-jour/) (2011)  · [_Zephyr_](https://www.jazzofjapan.com/archive/zephyr-zephyr/) (2013)  · [_Vayu_](https://www.jazzofjapan.com/archive/toshihiko-inoue-vayu/) (2016)
 -   Inoue, Yosuke (井上陽介, bass, [_web_](http://yosukeinouejazz.sakura.ne.jp/)): [_It’s Just Beginning_](https://www.jazzofjapan.com/archive/fumio-karashima-trio-its-just-beginning/) (2004)  · [_J-Straight Ahead_](https://www.jazzofjapan.com/archive/yasumasa-kumagai-j-straight-ahead/) (2015)
 -   Inoue, Yukari (井上ゆかり, piano, [_web_](https://www.inoueyukari.com/)): [_Sakura_](https://www.jazzofjapan.com/archive/yukari-inoue-sakura/) (2012)  · [_Dubai Suite_](https://www.jazzofjapan.com/archive/yukakoyamano-yukariinoue-dubai/) (2021)
 -   Intorre, Carmen Jr. (drums, [_web_](https://www.carmenintorrejr.com/)): [_The Echoes of Three_](https://www.jazzofjapan.com/archive/mayuko-katakura-echoes-of-three/) (2015)
@@ -469,7 +469,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Saito, Masaaki (齋藤大陽, bass, [_web_](https://masaakisaito.weebly.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/archive/eri-chichibu-crossing-reality/) (2022)
 -   Saito, Ryo (斉藤良, drums, [_web_](https://ryosaito0707.jimdofree.com/)): [_Stolen Moments_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-stolen-moments/) (2019)  · [_Free_](https://www.jazzofjapan.com/archive/michiyo-matsushita-trio-free/) (2024)
 -   Saito, Takashi (齋藤たかし, drums, [_web_](https://staxiverhp.wixsite.com/takashisaito)): [_Here Goes!_](https://www.jazzofjapan.com/archive/fumiko-yamazaki-here-goes/) (2011)
--   Sakai, Benisuke (坂井紅介, bass, [_web_](http://www.benisuke.com)): [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)  · [_Kakusareta Guwa_](https://www.jazzofjapan.com/archive/shikou-ito-trio-syncretia-kakusareta-guwa/) (2025)
+-   Sakai, Benisuke (坂井紅介, bass, [_web_](http://www.benisuke.com)): [_Fuse_](https://www.jazzofjapan.com/archive/toshihiko-inoue-fuse/) (1999)  · [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)  · [_Kakusareta Guwa_](https://www.jazzofjapan.com/archive/shikou-ito-trio-syncretia-kakusareta-guwa/) (2025)
 -   Sakai, Layla Tomomi (坂井レイラ知美, vocal, [_web_](https://www.sakailaylatomomi.com/)): [_Whisper Not_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-whisper-not/) (2016)  · [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/) (2018)  · [_Stolen Moments_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-stolen-moments/) (2019)
 -   Sakai, Makiyo (酒井麻生代, flute, [_web_](https://makiyo327.wixsite.com/flute)): [_Silver Painting_](https://www.jazzofjapan.com/archive/makiyo-sakai-silver-painting/) (2016)  · [_Boa Viagem_](https://www.jazzofjapan.com/archive/banda-feliz-boa-viagem/) (2020)
 -   Sakamoto, Nao (坂本直, guitar): [_Virgo_](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-virgo/) (2014)
@@ -559,7 +559,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Tanaka, Koei (田中光栄, harmonica, [_web_](https://www.tanakakoei.com/)): [_Music Make Us One_](https://www.jazzofjapan.com/archive/yuichiro-aratake-music-make-us-one/) (2010)
 -   Tanaka, Mitsuru (田中充, trumpet, [_web_](https://mitzru.bitfan.id/)): [_Rougequeue_](https://www.jazzofjapan.com/archive/fumie-chiba-rougequeue/) (2015)  · [_Beautiful Days_](https://www.jazzofjapan.com/archive/fumie-chiba-beautiful-days/) (2017)
 -   Tanaka, Naoko (田中菜緒子, piano, [_web_](http://tanakanaoko.com/)): [_Protean_](https://www.jazzofjapan.com/archive/protean-protean/) (2009)  · [_Trios II_](https://www.jazzofjapan.com/archive/daiki-yasukagawa-trio-trios-ii/) (2015)  · [_Memories of T_](https://www.jazzofjapan.com/archive/tcq-memories-of-t/) (2017)  · [_Trees_](https://www.jazzofjapan.com/archive/hiro-kimura-trees/) (2021)  · [_Appreciation_](https://www.jazzofjapan.com/archive/naoko-tanaka-appreciation/) (2022)  · [_Folds_](https://www.jazzofjapan.com/archive/hiro-kimura-quintet-folds/) (2023)
--   Tanaka, Nobumasa (田中信正, piano, [_web_](http://tnobumasa.com/)): [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)  · [_First Contact_](https://www.jazzofjapan.com/archive/mase-hiroko-quintet-first-contact/) (2020)  · [_Uta Oto_](https://www.jazzofjapan.com/archive/miyuki-moriya-uta-oto/) (2021)  · [_Owari to Hajimari_](https://www.jazzofjapan.com/archive/nobie-takayoshi-baba-owari-to-hajimari/) (2023)
+-   Tanaka, Nobumasa (田中信正, piano, [_web_](http://tnobumasa.com/)): [_Fuse_](https://www.jazzofjapan.com/archive/toshihiko-inoue-fuse/) (1999)  · [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)  · [_First Contact_](https://www.jazzofjapan.com/archive/mase-hiroko-quintet-first-contact/) (2020)  · [_Uta Oto_](https://www.jazzofjapan.com/archive/miyuki-moriya-uta-oto/) (2021)  · [_Owari to Hajimari_](https://www.jazzofjapan.com/archive/nobie-takayoshi-baba-owari-to-hajimari/) (2023)
 -   Tanaka, Noritaka (田中徳崇, drums, [_web_](https://www.jazz.co.jp/Mus/tanakatokutakashi.html)): [_National Anthem of Unknown Country_](https://www.jazzofjapan.com/archive/rabbitoo-national-anthem-of-unknown/) (2014)  · [_The Torch_](https://www.jazzofjapan.com/archive/rabbitoo-the-torch/) (2016)  · [_The Duality of My Soul_](https://www.jazzofjapan.com/archive/mayuko-katakura-duality-of-my-soul/) (2025)
 -   Tanaka, Shingo (田中晋吾, bass): [_Here Goes!_](https://www.jazzofjapan.com/archive/fumiko-yamazaki-here-goes/) (2011)
 -   Tanaka, Yohei (田中洋平, bass, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=14647)): [_Water Me!_](https://www.jazzofjapan.com/archive/water-me-water-me/) (2014)
@@ -582,7 +582,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Tsugami, Kenta (津上研太, saxophone, [_web_](https://kentatsugami.amebaownd.com/)): [_Melodies_](https://www.jazzofjapan.com/archive/melodies-melodies/) (2025)
 -   Tsukada, Yota (塚田陽太, drums, [_web_](https://www.yotatsukada.com/)): [_The Three Roses_](https://www.jazzofjapan.com/archive/daiki-yasukagawa-new-trio-three-roses/) (2022)
 -   Tsukayama, Kozue (津嘉山梢, piano, [_web_](https://uruma186.amebaownd.com/)): [_Shiro o Matoeba_](https://www.jazzofjapan.com/archive/koto-ha-to-shiro-o-matoeba/) (2017)
--   Tsunoda, Ken (角田健, drums, [_web_](http://blog.livedoor.jp/tsunoken555/)): [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)
+-   Tsunoda, Ken (角田健, drums, [_web_](http://blog.livedoor.jp/tsunoken555/)): [_Fuse_](https://www.jazzofjapan.com/archive/toshihiko-inoue-fuse/) (1999)  · [_Live Fuse_](https://www.jazzofjapan.com/archive/fuse-live-fuse/) (2007)
 
 
 ## U {#u}

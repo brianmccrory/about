@@ -19,7 +19,6 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   description = 'About the Jazz of Japan newsletter and archive'
-  dateFormat = "Jan 02, 2006"
   favicon = 'favicon.ico'
   hideMadeWithLine = true
   enablePostNavigator = false

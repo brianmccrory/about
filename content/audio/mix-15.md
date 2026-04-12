@@ -1,7 +1,7 @@
 ---
 title: "Audio Mix #15"
 date: 2026-02-06T00:00:00-08:00
-lastmod: 2026-04-05T06:50:43-07:00
+lastmod: 2026-04-12T11:16:48-07:00
 draft: false
 ---
 
@@ -18,3 +18,4 @@ draft: false
 -   “Let's Do It” - [Asuka Watanabe: _Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected) - 0:18:58
 -   “Listen to my Blues” - [Wataru Hamasaki &amp; Akane Matsumoto: _Listen to My Blues_](https://www.jazzofjapan.com/archive/wataru-hamasaki-akane-matsumoto-listen-to-my-blues) - 0:21:26
 -   “Rising Sun” - [Yuto Komatsu Quartet: _Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune) - 0:24:34
+-   “The last is the first” - [Toshihiko Inoue: _Fuse_](https://www.jazzofjapan.com/archive/toshihiko-inoue-fuse) - 0:27:42

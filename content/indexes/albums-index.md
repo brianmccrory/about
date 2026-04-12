@@ -1,7 +1,7 @@
 ---
 title: "Albums Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-05T06:50:42-07:00
+lastmod: 2026-04-12T11:16:48-07:00
 draft: false
 ---
 
@@ -394,6 +394,11 @@ _Index of albums discussed on this site._
 
 -   [_Duet_](https://www.jazzofjapan.com/archive/shinichi-kato-and-masahiko-sato-duet/) by Shinichi Kato &amp; Masahiko Sato
 -   [_Living Without Friday_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-trio-living-without-friday/) by Chihiro Yamanaka Trio
+
+
+## 1999 Releases {#1999-releases}
+
+-   [_Fuse_](https://www.jazzofjapan.com/archive/toshihiko-inoue-fuse/) by Toshihiko Inoue
 
 
 ## 1993 Releases {#1993-releases}
