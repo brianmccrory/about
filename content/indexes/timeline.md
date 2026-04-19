@@ -1,7 +1,7 @@
 ---
 title: "Publish History Timeline"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-12T11:16:48-07:00
+lastmod: 2026-04-19T11:22:02-07:00
 draft: false
 ---
 
@@ -9,6 +9,7 @@ _Chronological sitemap with links to articles._
 
 **April 2026**
 
+-   [Klavier](https://www.jazzofjapan.com/archive/klavier/) ~
 -   [Toshihiko Inoue: _Fuse_](https://www.jazzofjapan.com/archive/toshihiko-inoue-fuse/)
 -   [Yuto Komatsu Quartet: _Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/)
 

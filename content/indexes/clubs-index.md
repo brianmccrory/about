@@ -1,7 +1,7 @@
 ---
 title: "Clubs Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-01T11:35:33-07:00
+lastmod: 2026-04-19T11:22:01-07:00
 draft: false
 ---
 
@@ -40,6 +40,7 @@ _Index of jazz clubs, bars, and venues discussed on this site._
 -   [Jazz Nutty](https://www.jazzofjapan.com/archive/jazz-nutty/) - _Wadeda Sta, Tokyo_ ([_web_](https://ameblo.jp/jazznutty/), [_map_](https://maps.app.goo.gl/cjPMA8GYFSpVdH6B6))
 -   [Jazzspot J](https://www.jazzofjapan.com/archive/jazzspot-j/) - _Shinjuku-sanchome Sta, Tokyo_ ([_web_](https://web.archive.org/web/20191118143902/http://www.jazzspot-j.com/), [_map_](https://goo.gl/maps/52JM52ZzWd9zoEBVA))  _Permanently closed_
 -   [Kanmachi 63](https://www.jazzofjapan.com/archive/kanmachi-63/) - _Kannai Sta, Yokohama_ ([_web_](http://kanmachi63.blog.fc2.com/), [_map_](https://maps.app.goo.gl/8tnZYSi7NmyFJ78v5))
+-   [Klavier](https://www.jazzofjapan.com/archive/klavier/) - _Asagaya Sta, Tokyo_ ([_web_](https://www.klavier-jazz.com/), [_map_](https://maps.app.goo.gl/AjEXCmwfdq4paog78))
 -   [Knuttel House](https://www.jazzofjapan.com/archive/knuttel-house/) - _Asakusa Sta, Tokyo_ ([_web_](https://knuttelhouse.com/), [_map_](https://goo.gl/maps/QT7k3i5WPeHH8ndP9))
 -   [Koen-Dori Classics](https://www.jazzofjapan.com/archive/koen-dori-classics/) - _Shibuya Sta, Tokyo_ ([_web_](http://koendoriclassics.com/), [_map_](https://maps.app.goo.gl/s5XtxuwwMhzCATwv9))
 -   [Kohaku](https://www.jazzofjapan.com/archive/kohaku/) - _Shibuya Sta, Tokyo_ ([_web_](https://www.udagawacafe.com/kohaku/), [_map_](https://maps.app.goo.gl/g19TLVLQaXmHF3RX9))
