@@ -1,7 +1,7 @@
 ---
 title: "Musicians Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-12T11:16:48-07:00
+lastmod: 2026-04-20T09:43:01-07:00
 draft: false
 ---
 
@@ -367,7 +367,7 @@ _Index of the musicians and the albums discussed on this site._
 ## N {#n}
 
 -   Nagano, Hiroco (永野寛子, vocal, [_web_](https://hiroconaganoofficial.amebaownd.com/)): [_Tsutaete Ikou_](https://www.jazzofjapan.com/archive/seiji-endo-tsutaete-ikou/) (2015)  · [_Okurimono_](https://www.jazzofjapan.com/archive/hiroco-nagano-okurimono/) (2017)
--   Nagasawa, Norihiko (長澤紀仁, guitar, [_web_](https://jinjinviolao.seesaa.net/)): [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/) (2018)
+-   Nagasawa, Norihito (長澤紀仁, guitar, [_web_](https://jinjinviolao.seesaa.net/)): [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/) (2018)
 -   Nagatake, Mikiko (永武幹子, piano, [_web_](http://mikikonagatake.com/)): [_Live at Knuttel House_](https://www.jazzofjapan.com/archive/tetsuji-yoshida-and-mikiko-nagatake/) (2021)  · [_Solo_](https://www.jazzofjapan.com/archive/mikiko-nagatake-solo/) (2022)  · [_Fairway_](https://www.jazzofjapan.com/archive/efreydut-fairway/) (2024)  · [_Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/) (2025)
 -   Nakabayashi, Kunpei (中林薫平, bass, [_web_](https://www.instagram.com/kunpeibass/)): [_Sora_](https://www.jazzofjapan.com/archive/eriko-shimizu-sora/) (2010)  · [_Unity_](https://www.jazzofjapan.com/archive/hikari-ichihara-group-unity/) (2011)  · [_Circles_](https://www.jazzofjapan.com/archive/kunpei-nakabayashi-orchestra-circles/) (2021)
 -   Nakagawa, Yoshihiro (中川喜博, drums): [_Colors_](https://www.jazzofjapan.com/archive/sayaketts-colors/) (2009)
