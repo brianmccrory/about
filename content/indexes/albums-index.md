@@ -1,7 +1,7 @@
 ---
 title: "Albums Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-12T11:16:48-07:00
+lastmod: 2026-04-26T08:51:32-07:00
 draft: false
 ---
 
@@ -19,6 +19,7 @@ _Index of albums discussed on this site._
 -   [_Listen to My Blues_](https://www.jazzofjapan.com/archive/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/) by Wataru Hamasaki &amp; Akane Matsumoto
 -   [_Melodies_](https://www.jazzofjapan.com/archive/melodies-melodies/) by Melodies
 -   [_Orbital Resonance_](https://www.jazzofjapan.com/archive/sumire-kuribayashi-orbital-resonance/) by Sumire Kuribayashi
+-   [_Ten To Sen_](https://www.jazzofjapan.com/archive/hitomi-aikawa-masaki-hayashi-ten-to-sen/) by Hitomi Aikawa &amp; Masaki Hayashi
 -   [_The Duality of My Soul_](https://www.jazzofjapan.com/archive/mayuko-katakura-duality-of-my-soul/) by Mayuko Katakura
 -   [_The Word_](https://www.jazzofjapan.com/archive/davy-mooney-ko-omura-the-word/) by Davy Mooney &amp; Ko Omura
 -   [_Tides of Blue_](https://www.jazzofjapan.com/archive/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue/) by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa

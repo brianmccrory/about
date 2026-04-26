@@ -1,7 +1,7 @@
 ---
 title: "Musicians Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-20T09:43:01-07:00
+lastmod: 2026-04-26T08:51:32-07:00
 draft: false
 ---
 
@@ -15,7 +15,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Abe, Toshiki (阿部俊貴, saxophone, [_web_](https://www.toshikiabesax.com/)): [_The Simplicity_](https://www.jazzofjapan.com/archive/toshiki-abe-life-memory-project-simplicity/) (2022)
 -   Afra (あふら, human beatbox, [_web_](http://afra.jp/)): [_I Need a Change, Too_](https://www.jazzofjapan.com/archive/yasumasa-kumagai-i-need-a-change-too/) (2008)
 -   Aida, Momoko (会田桃子, violin, [_web_](https://www.instagram.com/aidamomoko/)): [_Carta_](https://www.jazzofjapan.com/archive/emiko-voice-carta/) (2017)
--   Aikawa, Hitomi (相川瞳, percussion, [_web_](https://www.hitomiaikawa.com/)): [_Sweet_](https://www.jazzofjapan.com/archive/hitomi-aikawa-sweet/) (2018)  · [_El viento y las flores_](https://www.jazzofjapan.com/archive/magnolia-el-viento-y-las-flores/) (2022)
+-   Aikawa, Hitomi (相川瞳, percussion, [_web_](https://www.hitomiaikawa.com/)): [_Sweet_](https://www.jazzofjapan.com/archive/hitomi-aikawa-sweet/) (2018)  · [_El viento y las flores_](https://www.jazzofjapan.com/archive/magnolia-el-viento-y-las-flores/) (2022)  · [_Ten To Sen_](https://www.jazzofjapan.com/archive/hitomi-aikawa-masaki-hayashi-ten-to-sen/) (2025)
 -   Akimoto, Naoko (秋元直子, vocal, [_web_](https://naokojazz.com)): [_No One Else_](https://www.jazzofjapan.com/archive/naoko-akimoto-no-one-else/) (2012)
 -   Akiyama, Kazumasa (秋山一将, guitar, [_web_](http://www7a.biglobe.ne.jp/~encore/akiyama/)): [_Major to Minor_](https://www.jazzofjapan.com/archive/kohsuke-mine-quintet-major-to-minor/) (1993)
 -   Akiyama, Taku (秋山卓, saxophone, [_web_](http://jmsu.web.fc2.com/taku/)): [_Routine Jazz Sextet_](https://www.jazzofjapan.com/archive/routine-jazz-sextet-routine-jazz-sextet/) (2008)
@@ -155,7 +155,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Hayama, Miki (早間美紀, piano, [_web_](http://www.mikihayama.com/)): [_Prelude to a Kiss_](https://www.jazzofjapan.com/archive/miki-hayama-prelude-to-a-kiss/) (2006)  · [_Wide Angle_](https://www.jazzofjapan.com/archive/miki-hayama-trio-wide-angle/) (2009)
 -   Hayashi, Eiichi (林栄一, saxophone, [_web_](https://www.eonet.ne.jp/%7En-east/)): [_Breathe Beneath the Sun_](https://www.jazzofjapan.com/archive/mikiko-nagatake-trio-breathe-beneath-the-sun/) (2022)
 -   Hayashi, Hiroki (林宏樹, sax, [_web_](https://thejazzmanstudio.amebaownd.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/archive/eri-chichibu-crossing-reality/) (2022)
--   Hayashi, Masaki (林正樹, piano, [_web_](http://www.c-a-s-net.co.jp/masaki/)): [_Un Jour_](https://www.jazzofjapan.com/archive/clepsydra-un-jour/) (2011)  · [_Mistral_](https://www.jazzofjapan.com/archive/toshihiko-inoue-and-masaki-hayashi/) (2013)  · [_Sweet_](https://www.jazzofjapan.com/archive/hitomi-aikawa-sweet/) (2018)
+-   Hayashi, Masaki (林正樹, piano, [_web_](http://www.c-a-s-net.co.jp/masaki/)): [_Un Jour_](https://www.jazzofjapan.com/archive/clepsydra-un-jour/) (2011)  · [_Mistral_](https://www.jazzofjapan.com/archive/toshihiko-inoue-and-masaki-hayashi/) (2013)  · [_Sweet_](https://www.jazzofjapan.com/archive/hitomi-aikawa-sweet/) (2018)  · [_Ten To Sen_](https://www.jazzofjapan.com/archive/hitomi-aikawa-masaki-hayashi-ten-to-sen/) (2025)
 -   Hayashi, Raiga (林頼我, drums, [_web_](https://raigahayashi.wixsite.com/drums)): [_64 Charlesgate_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-64-charlesgate/) (2022)
 -   Hayashi, Yuichi (林祐市, piano, [_web_](http://yuichihayashi.com/)): [_Trispace_](https://www.jazzofjapan.com/archive/trispace-trispace/) (2010)
 -   Herrera, Mauricio (congas): [_Scratch_](https://www.jazzofjapan.com/archive/miki-hirose-scratch/) (2013)
@@ -250,7 +250,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Kaptein, Sebastiaan (drums, [_web_](https://canopusdrums.com/en/endorsers/sebastiaan-kaptein/)): [_Colors in Silence_](https://www.jazzofjapan.com/archive/tomoka-miwa-colors/) (2015)
 -   Karashima, Fumio (辛島文雄, piano, [_web_](http://www.pit-inn.com/karashima/en/)): [_It’s Just Beginning_](https://www.jazzofjapan.com/archive/fumio-karashima-trio-its-just-beginning/) (2004)  · [_Great Time_](https://www.jazzofjapan.com/archive/fumio-karashima-great-time/) (2006)
 -   Karn, Mike (bass, [_web_](https://mikekarnbass.wordpress.com/)): [_Art_](https://www.jazzofjapan.com/archive/ayumi-koketsu-art/) (2016)
--   Katakura, Mayuko (片倉真由子, piano, [_web_](https://ameblo.jp/mayukokatakura/)): [_Inspiration_](https://www.jazzofjapan.com/archive/mayuko-katakura-inspiration/) (2009)  · [_Faith_](https://www.jazzofjapan.com/archive/mayuko-katakura-faith/) (2010)  · [_The Echoes of Three_](https://www.jazzofjapan.com/archive/mayuko-katakura-echoes-of-three/) (2015)  · [_II_](https://www.jazzofjapan.com/archive/nanami-haruta-ii/) (2022)  · [_Viento_](https://www.jazzofjapan.com/archive/mabumi-yamaguchi-viento/) (2023)  · [_The Duality of My Soul_](https://www.jazzofjapan.com/archive/mayuko-katakura-duality-of-my-soul/) (2025)
+-   Katakura, Mayuko (片倉真由子, piano, [_web_](https://www.mayukokatakura.net/)): [_Inspiration_](https://www.jazzofjapan.com/archive/mayuko-katakura-inspiration/) (2009)  · [_Faith_](https://www.jazzofjapan.com/archive/mayuko-katakura-faith/) (2010)  · [_The Echoes of Three_](https://www.jazzofjapan.com/archive/mayuko-katakura-echoes-of-three/) (2015)  · [_II_](https://www.jazzofjapan.com/archive/nanami-haruta-ii/) (2022)  · [_Viento_](https://www.jazzofjapan.com/archive/mabumi-yamaguchi-viento/) (2023)  · [_The Duality of My Soul_](https://www.jazzofjapan.com/archive/mayuko-katakura-duality-of-my-soul/) (2025)
 -   Katano, Goro (片野吾朗, bass, [_web_](http://gorobass.blogspot.com/)): [_Halo_](https://www.jazzofjapan.com/archive/blue-dot-halo/) (2016)
 -   Kato, Ippei (加藤一平, guitar, [_web_](https://ippeih3.exblog.jp/)): [_Invisible Diary_](https://www.jazzofjapan.com/archive/kaito-nakamura-invisible-diary/) (2025)
 -   Kato, Minoru (加藤実, piano, [_web_](http://minoru-k.artist-jp.net/)): [_Boa Viagem_](https://www.jazzofjapan.com/archive/banda-feliz-boa-viagem/) (2020)
@@ -330,7 +330,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Maseki, Yuto (柵木雄斗, drums, [_web_](https://ameblo.jp/masekiyuto/)): [_Awareness_](https://www.jazzofjapan.com/archive/mariko-maeda-awareness/) (2023)
 -   Matsuda, Asami (松田麻美, violin): [_Music Make Us One_](https://www.jazzofjapan.com/archive/yuichiro-aratake-music-make-us-one/) (2010)
 -   Matsuda, Yasuhiro (松田靖弘, saxophone, [_web_](https://www.alsoj.net/sax/artist/view/1055/%E6%9D%BE%E7%94%B0%E9%9D%96%E5%BC%98.html)): [_No One Else_](https://www.jazzofjapan.com/archive/naoko-akimoto-no-one-else/) (2012)
--   Matsumonica (マツモニカ, harmonica): [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/) (2018)
+-   Matsumonica (マツモニカ, harmonica, [_web_](http://matsumonica.sblo.jp/)): [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/) (2018)
 -   Matsumoto, Akane (松本茜, piano, [_web_](http://akanejazz.com)): [_Playing New York_](https://www.jazzofjapan.com/archive/akane-matsumoto-playing-new-york/) (2010)  · [_Big Catch_](https://www.jazzofjapan.com/archive/hamasaki-matsumoto-bigcatch/) (2013)  · [_Humadope_](https://www.jazzofjapan.com/archive/keisuke-nakamura-humadope/) (2014)  · [_Memories of You_](https://www.jazzofjapan.com/archive/akane-matsumoto-memories-of-you/) (2015)  · [_Night &amp; Day_](https://www.jazzofjapan.com/archive/akane-matsumoto-night-and-day/) (2017)  · [_Oh, Lady Be Good_](https://www.jazzofjapan.com/archive/akane-matsumoto-oh-lady-be-good/) (2019)  · [_Little Girl Blue_](https://www.jazzofjapan.com/archive/akane-matsumoto-little-girl-blue/) (2022)  · [_For My Lady_](https://www.jazzofjapan.com/archive/akane-matsumoto-nanami-haruta-for/) (2023)  · [_Trust_](https://www.jazzofjapan.com/archive/akane-matsumoto-ayumi-koketsu-trust/) (2024)  · [_Listen to My Blues_](https://www.jazzofjapan.com/archive/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/) (2025)
 -   Matsuo, Yudo (松尾由堂, guitar, [_web_](https://yudomatsuo.tumblr.com/)): [_Bonanza_](https://www.jazzofjapan.com/archive/yudo-matsuo-bonanza/) (2012)
 -   Matsushita, Michiyo (松下美千代, piano, [_web_](https://michiyomatsushita.amebaownd.com/)): [_Sally Gardens_](https://www.jazzofjapan.com/archive/michiyo-matsushita-sally-gardens/) (2018)  · [_Free_](https://www.jazzofjapan.com/archive/michiyo-matsushita-trio-free/) (2024)
