@@ -3,6 +3,8 @@ title: "Audio Mix #6"
 date: 2020-02-13T00:00:00-08:00
 lastmod: 2026-04-01T11:35:33-07:00
 draft: false
+type: redirect
+target: https://www.jazzofjapan.com/archive/index/#audio-mix-6
 ---
 
 <audio controls preload="metadata" style="width:100%; max-width:400px;">

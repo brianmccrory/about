@@ -3,6 +3,8 @@ title: "Publish History Timeline"
 date: 2018-01-26T00:00:00-08:00
 lastmod: 2026-04-26T08:51:32-07:00
 draft: false
+type: redirect
+target: https://www.jazzofjapan.com/archive/index/
 ---
 
 _Chronological sitemap with links to articles._
@@ -625,6 +627,7 @@ _Chronological sitemap with links to articles._
 -   [Ayumi Koketsu: _Art_](https://www.jazzofjapan.com/archive/ayumi-koketsu-art/)
 -   [Akane Matsumoto: _Night &amp; Day_](https://www.jazzofjapan.com/archive/akane-matsumoto-night-and-day/)
 -   [Kazumi Ikenaga: _Niwatazumi_](https://www.jazzofjapan.com/archive/kazumi-ikenaga-niwatazumi/) \*
+
 
 ---
 

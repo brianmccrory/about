@@ -1,24 +1,29 @@
-#+title: Supporters
-#+date: 2026-03-28
-#+lastmod: 2026-03-28
+---
+title: 'Support'
+date: '2025-09-10T06:39:52-07:00'
+type: redirect
+target: https://www.jazzofjapan.com/archive/about/
+---
 
-* Thank you to all Jazz of Japan supporters!
+## Thank you to all Jazz of Japan supporters! {#thank-you-to-all-jazz-of-japan-supporters}
 
 I'd like to especially thank some premium supporters, present and past, including these fine folks:
 
------
+---
 
-/Ray J., Bruce R., Jack L., Ring Flaxen, P. B., Bruce D R., Richard N., Jarmo E., Stregoni, Syd Schwartz [[https://jazzandcoffee.substack.com/][Jazz and Coffee]], Anonymous... *Seriously, thank you!*/
+_Ray J., Bruce R., Jack L., Ring Flaxen, P. B., Bruce D R., Richard N., Jarmo E., Stregoni, Syd Schwartz [Jazz and Coffee](https://jazzandcoffee.substack.com/), Anonymous... **Seriously, thank you!**_
 
------
+---
 
-* Like Jazz of Japan? Support this project!
 
-You can sign up for a premium membership through the [[https://buttondown.com/login?subscriber=1][Subscriber portal]], where you can upgrade or change your settings. Or, you can click the “Manage Your Subscription” link at the bottom of any email from Jazz of Japan, or click the “Upgrade” link in the archive.
+## Like Jazz of Japan? Support this project! {#like-jazz-of-japan-support-this-project}
 
-If you’re not already signed up for the newsletter, enter your email address here: [[https://www.jazzofjapan.com/][Jazz of Japan]].
+You can sign up for a premium membership through the [Subscriber portal](https://buttondown.com/login?subscriber=1), where you can upgrade or change your settings. Or, you can click the “Manage Your Subscription” link at the bottom of any email from Jazz of Japan, or click the “Upgrade” link in the archive.
 
-* Benefits
+If you’re not already signed up for the newsletter, enter your email address here: [Jazz of Japan](https://www.jazzofjapan.com/).
+
+
+## Benefits {#benefits}
 
 In addition to the emails that regular subscribers receive through the newsletter, premium subscribers receive occasional bonus emails. While the regular emails are all about Japanese jazz albums, the extra issues are about Japanese jazz clubs, venues, or guides with extra information (and lots of photos) on real modern-day jazz scenes in Japan. I send these premium issues through the newsletter exclusively to premium subscribers about once a month.
 
@@ -26,7 +31,8 @@ Having said that, I’m not interested in using paywalls in the articles. I hope
 
 Subscriptions to Jazz of Japan can be canceled at any time. Payments are handled securely through the Stripe platform, just like they were when I was on Substack. If there's ever a problem with your subscription, just contact me and I will try to make things right.
 
-* With special thanks to...
+
+## With special thanks to... {#with-special-thanks-to-dot-dot-dot}
 
 I really appreciate the attention and support you send my way. This is a completely human-powered project (just me), and your interest honestly elevates my motivation and momentum. Whether you are a regular reader who subscribes to the newsletter, or someone who shows supports through a paid subscription, or someone who adds a comment or sends a note to just say thanks... you do make a big difference.
 

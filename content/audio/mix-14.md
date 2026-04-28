@@ -3,6 +3,8 @@ title: "Audio Mix #14"
 date: 2025-08-17T00:00:00-07:00
 lastmod: 2026-04-01T11:35:34-07:00
 draft: false
+type: redirect
+target: https://www.jazzofjapan.com/archive/index/#audio-mix-14
 ---
 
 <audio controls preload="metadata" style="width:100%; max-width:400px;">

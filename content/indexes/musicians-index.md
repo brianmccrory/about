@@ -3,6 +3,8 @@ title: "Musicians Index"
 date: 2018-01-26T00:00:00-08:00
 lastmod: 2026-04-26T08:51:32-07:00
 draft: false
+type: redirect
+target: https://www.jazzofjapan.com/archive/index/
 ---
 
 _Index of the musicians and the albums discussed on this site._

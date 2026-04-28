@@ -3,6 +3,8 @@ title: "Clubs Index"
 date: 2018-01-26T00:00:00-08:00
 lastmod: 2026-04-19T11:22:01-07:00
 draft: false
+type: redirect
+target: https://www.jazzofjapan.com/archive/index/
 ---
 
 _Index of jazz clubs, bars, and venues discussed on this site._

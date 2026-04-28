@@ -3,6 +3,8 @@ title: "Audio Mix #10"
 date: 2023-11-27T00:00:00-08:00
 lastmod: 2026-04-01T11:35:34-07:00
 draft: false
+type: redirect
+target: https://www.jazzofjapan.com/archive/index/#audio-mix-10
 ---
 
 <audio controls preload="metadata" style="width:100%; max-width:400px;">
